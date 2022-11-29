@@ -57,12 +57,11 @@
         <router-link to="/transaction-history" class="btn btn-light my-5">Lihat Riwayat Transaksi</router-link>
     </div>
 </main>
-
-<nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-bottom">
-        <div class="container d-flex justify-content-center">
-            <span class="text-white">lks kabupaten subang, build with <a href="https://www.tiktok.com/@arifinhabibi_">arifinhabibi</a></span>
-        </div>
-    </nav>
+        <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-bottom">
+            <div class="container d-flex justify-content-center">
+                <span class="text-white">lks kabupaten subang 2022, build with <a href="https://www.tiktok.com/@arifinhabibi_">arifinhabibi</a></span>
+            </div>
+        </nav>
 
     </div>
 </template>
