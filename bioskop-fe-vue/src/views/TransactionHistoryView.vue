@@ -43,6 +43,12 @@
         </table>
     </div>
 </main>
+
+<nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-bottom">
+        <div class="container d-flex justify-content-center">
+            <span class="text-white">lks kabupaten subang, build with <a href="https://www.tiktok.com/@arifinhabibi_">arifinhabibi</a></span>
+        </div>
+    </nav>
     </div>
 </template>
 
