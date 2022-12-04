@@ -7,4 +7,4 @@ untuk mengunduh aplikasi web ini pastikan sudah menginstall:
 3. node js version >16 / latest(terbaru)
 
 media sosial
-tiktok: https://www.tiktok.com/@arifinhabibi_
+tiktok: https://www.tiktok.com/@arifinhabibi_/
